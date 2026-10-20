@@ -1,6 +1,10 @@
 ## 🔍 How This Tool Works
 
-### At a Glance — The Core Process
+### How to install this tools 
+```git clone https://github.com/r00thex/Israel-number-osint-/```
+```ls```
+```cd Israel-number-osint-```
+```python Israel-number-osint-```
 
 ### Step-by-Step — What Happens
 
