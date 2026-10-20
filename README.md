@@ -8,7 +8,7 @@ cd Israel-number-osint-
 
 python Israel_osint.py```
 
-
+```
 ### Step-by-Step — What Happens
 
 | Step | Action | Location in Code |
