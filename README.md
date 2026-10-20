@@ -9,7 +9,7 @@
 
 ```cd Israel-number-osint-```
 
-```python Israel-number-osint-```
+```python Israel_osint.py```
 
 ### Step-by-Step — What Happens
 
