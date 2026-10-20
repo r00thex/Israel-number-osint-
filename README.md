@@ -2,8 +2,12 @@
 
 ### How to install this tools 
 ```git clone https://github.com/r00thex/Israel-number-osint-/```
+
+
 ```ls```
+
 ```cd Israel-number-osint-```
+
 ```python Israel-number-osint-```
 
 ### Step-by-Step — What Happens
@@ -46,7 +50,25 @@ The tool displays exactly what the API returns. It may contain various fields (s
 
 ```json
 {
-  "phone": "0501234567",
+
+#1 📸 𝐈𝐧𝐬𝐭𝐚𝐠𝐫𝐚𝐦 𝐃𝐚𝐭𝐚
+👤 𝐍𝐚𝐦𝐞: OR_morali18
+🪪 𝐔𝐬𝐞𝐫 𝐈𝐃: 9741464977
+📞 𝐏𝐡𝐨𝐧𝐞: +972504216222
+🔗 𝐔𝐬𝐞𝐫𝐧𝐚𝐦𝐞: @or_morali18
+📧 𝐄𝐦𝐚𝐢𝐥: or0543121@gmail.com
+────────────────────────
+#2 📸 𝐈𝐧𝐬𝐭𝐚𝐠𝐫𝐚𝐦 𝐃𝐚𝐭𝐚
+👤 𝐍𝐚𝐦𝐞: Morali
+🪪 𝐔𝐬𝐞𝐫 𝐈𝐃: 14035404872
+📞 𝐏𝐡𝐨𝐧𝐞: +0504216222
+🔗 𝐔𝐬𝐞𝐫𝐧𝐚𝐦𝐞: @morali781
+────────────────────────
+#3 📘 𝐅𝐚𝐜𝐞𝐛𝐨𝐨𝐤 𝐃𝐚𝐭𝐚
+👤 𝐍𝐚𝐦𝐞: Or Morali
+🪪 𝐔𝐬𝐞𝐫 𝐈𝐃: 100025888987221
+📞 𝐏𝐡𝐨𝐧𝐞: +972504216222
+────────────────────────
   
 }
 ```
