@@ -7,7 +7,8 @@ git clone https://github.com/r00thex/Israel-number-osint-.git
 
 cd Israel-number-osint-
 
-python Israel_osint.py```
+python Israel_osint.py
+```
 
 ```
 ### Step-by-Step — What Happens
