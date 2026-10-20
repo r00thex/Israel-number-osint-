@@ -1,7 +1,7 @@
 ## 🔍 How This Tool Works
 
 ### How to install this tools 
-```git clone https://github.com/r00thex/Israel-number-osint-/```
+```git clone https://github.com/r00thex/Israel-number-osint-.git```
 
 
 ```ls```
