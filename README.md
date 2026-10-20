@@ -2,7 +2,8 @@
 
 ## 🔍 How This Tool Works
 
-```git clone https://github.com/r00thex/Israel-number-osint-.git
+```
+git clone https://github.com/r00thex/Israel-number-osint-.git
 
 cd Israel-number-osint-
 
